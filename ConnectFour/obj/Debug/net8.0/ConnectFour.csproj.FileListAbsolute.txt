@@ -1,0 +1,61 @@
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/appsettings.Development.json
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/appsettings.json
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour.staticwebassets.runtime.json
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour.deps.json
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour.runtimeconfig.json
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour.dll
+/Users/samgordon/ConnectFour/bin/Debug/net8.0/ConnectFour.pdb
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.AssemblyInfoInputs.cache
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.AssemblyInfo.cs
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.csproj.CoreCompileInputs.cache
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.sourcelink.json
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets.build.json
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets.development.json
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.ConnectFour.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.build.ConnectFour.props
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ConnectFour.props
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ConnectFour.props
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/scopedcss/bundle/ConnectFour.styles.css
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.dll
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/refint/ConnectFour.dll
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.pdb
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ConnectFour.genruntimeconfig.cache
+/Users/samgordon/ConnectFour/obj/Debug/net8.0/ref/ConnectFour.dll
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/appsettings.Development.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/appsettings.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour.staticwebassets.runtime.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour.deps.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour.runtimeconfig.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour.dll
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/bin/Debug/net8.0/ConnectFour.pdb
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.AssemblyInfoInputs.cache
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.AssemblyInfo.cs
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.csproj.CoreCompileInputs.cache
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.sourcelink.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets.build.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets.development.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.ConnectFour.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.build.ConnectFour.props
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ConnectFour.props
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ConnectFour.props
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/scopedcss/bundle/ConnectFour.styles.css
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.dll
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/refint/ConnectFour.dll
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.pdb
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ConnectFour.genruntimeconfig.cache
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/ref/ConnectFour.dll
+/Users/samgordon/Desktop/Current Classes/CSE 325/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Board.razor.rz.scp.css
