@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmM5AQKtUVI=",
+  "dgSpecHash": "jWD0nNOwSJY=",
   "success": true,
-  "projectFilePath": "/Users/samgordon/Desktop/Current Classes/CSE 325/mvc_app/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/samgordon/Desktop/Current Classes/CSE 325/CSE-325-1/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/samgordon/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/samgordon/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
